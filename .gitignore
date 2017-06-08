@@ -1,0 +1,4 @@
+temps/
+cle_privee
+*.data
+*.py[oc]
